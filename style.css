@@ -1,0 +1,52 @@
+h1{
+  color: red;
+  background-color: springgreen;
+  font-family:'Times New Roman', Times, serif;
+  font-size: x-large;
+}
+
+.para{
+  color: blue;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: large
+}
+
+.l1{
+  color: violet;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: large;
+  border: 3px solid black;
+}
+
+
+.l2{
+  color: violet;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: large;
+  border: 3px solid black;
+}
+
+
+.l3{
+  color: violet;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: large;
+  border: 3px solid black;
+}
+
+
+.icon{
+  color: violet;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: x-large;
+  
+}
+
+.links{
+  color: red;
+  
+}
+
+.links :hover{
+  color: blueviolet;
+}
